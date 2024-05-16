@@ -728,6 +728,12 @@
     ],
     "lives": [
         {
+            "name": "4gtv",
+            "type": 0,
+            "playerType": 1,
+            "url": "./other/4gtv.txt"
+        },
+        {
             "name": "6969",
             "type": 0,
             "playerType": 1,
