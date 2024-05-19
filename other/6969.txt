@@ -1,4 +1,4 @@
-﻿轮播电影,#genre#
+轮播电影,#genre#
 吃米滴虫,http://159.75.85.63:35455/douyu/315457
 喜剧电影,http://159.75.85.63:35455/douyu/9292492
 译制国语,http://159.75.85.63:35455/douyu/2436390
@@ -503,7 +503,7 @@ VIU TV6频道,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszz
 RTHK31频道,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
 RTHK32频道,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
 
-福利频道_33,#genre#
+福利频道,#genre#
 松視2台,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 Hustler HD,http://rebrov.tvfor.pro/cHInGolanp/ihwvhvl55bxyc5monync7vjz
 Blue Hustler,http://rebrov.tvfor.pro/fU36p77FmV/ihwvhvl55bxyc5monync7vjz
@@ -681,7 +681,7 @@ PornBox 1 ,http://23.237.100.82:8000/PLAYBOY/index.m3u8
 PornBox 2 ,http://23.237.100.82:8000/HUSTLER/index.m3u8 
 PornBox 3 ,http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 Fake Taxi ,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6202/index.m3u8
-福利频道_33,#genre#
+福利频道,#genre#
 Cum4k,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6190/index.m3u8
 Eromania 4K,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/10049/index.m3u8
 XY Plus 2,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/12116/index.m3u8
@@ -740,7 +740,7 @@ Siptare,http://5.182.209.225:8080/live/MXnnadb2uK/2GsF8UK7QA/17733.ts
 LEGAL,http://2e9acc44.kartoshkaka.ru/iptv/4PYL58K99PM8FU/20090/manifest.m3u8
 PSYCHO,http://2e9acc44.kartoshkaka.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
 SLHOT,http://nimpazna.online:2082/alemer1804old/3TcEYMRPUSkZ123/416101
-🔞💋频道2_24758,#genre#
+🔞💋频道2,#genre#
 PlayboyTV,http://213.183.48.22/PlayboyTV/index.m3u8?token=klimedia.space:ZjlhZzhhMGdmYWdoYTpmOWFnOGEwZ2ZhZ2hh
 Barelylegal,http://213.183.48.22/Barelylegal/index.m3u8?token=klimedia.space:ZjlhZzhhMGdmYWdoYTpmOWFnOGEwZ2ZhZ2hh
 BlueHustler,http://213.183.48.22/BlueHustler/index.m3u8?token=klimedia.space:ZjlhZzhhMGdmYWdoYTpmOWFnOGEwZ2ZhZ2hh
@@ -751,7 +751,7 @@ BlueHustler,http://213.183.48.22/BlueHustler/index.m3u8?token=klimedia.space:Zjl
 日本映画専門,http://103.197.59.106:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 http://103.36.32.14:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 映画・チャンネルNECO,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-福利频道_33,#genre#
+福利频道,#genre#
 Fake Taxi HD,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6202/index.m3u8
 Japan HDV,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6225/index.m3u8
 KinoXXX,http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/11052/index.m3u8
@@ -795,7 +795,7 @@ RedTraffic Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 RedTraffic MILF,http://live.redtraffic.xyz/milf.m3u8
 RedTraffic Pornstar,http://live.redtraffic.xyz/pornstar.m3u8
 RedTraffic POV,http://live.redtraffic.xyz/pov.m3u8
-🔞💋频道3_24758,#genre#
+🔞💋频道3,#genre#
 
 N1 Babes,http://bmcmedia.live:8880/VSV.reload/wZVSZ65prP/54945
  N1 Brazzers 2022 FHD
@@ -1437,7 +1437,7 @@ XVIDEO 29,http://78.159.119.122:2082/Tourobox3-xlkoLlli4q/taJjqmtatI/1216
 XVIDEO 30,http://78.159.119.122:2082/Tourobox3-xlkoLlli4q/taJjqmtatI/1217
 cast,http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20089/manifest.m3u8
 центральное тв Ru,http://88b9da48.kazmazpaz.ru/iptv/4PYL58K99PM8FU/20090/manifest.m3u8
-福利频道_33,#genre#
+福利频道,#genre#
 Playboy FHD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260418
 PLAYBOY HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260419
 Sexy Hot HD,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/260420
@@ -1794,9 +1794,9 @@ PORNHUB ✰ GAY: JACK HUNTER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJg
 PORNHUB ✰ GAY:  TRANSGENDER,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289740
 ORNHUB ✰ GAY: RICKY LARKIN,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289741
 PORNHUB ✰ GAY: KYLER MOSS,http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/289742
-🔞频道4_24758,#genre#
+🔞频道4,#genre#
 japanhdv,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6225/index.m3u8
-福利频道_33,#genre#
+福利频道,#genre#
  Unknown_1,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/19401/index.m3u8
 Unknown_2,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/20024/index.m3u8?
 Unknown_3,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/20025/index.m3u8?
@@ -1829,7 +1829,7 @@ Unknown_29,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6192/index.m3u8?
 Unknown_30,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6193/index.m3u8?
 Unknown_31,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6194/index.m3u8?
 Unknown_32,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6195/index.m3u8?
-Unknown_33,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6196/index.m3u8?
+Unknown,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6196/index.m3u8?
 Unknown_34,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6197/index.m3u8?
 Unknown_35,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6199/index.m3u8?
 Unknown_36,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6200/index.m3u8?
@@ -1891,7 +1891,7 @@ Unknown_91,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6288/index.m3u8?
 Unknown_92,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/6298/index.m3u8?
 Unknown_93,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/9066/index.m3u8?
 
-🔞港台情色_333,#genre#
+🔞港台情色,#genre#
 勾魂恶梦,https://f005.paopao.video:443/B20EBA2BFEC71DA3123E87903B3B36B02ECE4E03
 野浪花,https://cf005.paopao.video:443/8AA90B35B54A9BFB86A100AE1EBDC0A5C9FE7539
 三奸,https://cf005.paopao.video:443/B5AE58AE870ACB3F876096DD76D5285611177118
@@ -1917,7 +1917,7 @@ Unknown_93,http://demoniaus.cbilant.com/iptv/GCETXETVEM37A6/9066/index.m3u8?
 留住真情,https://ckzy1com.com/20230106/JDeeat2r/1000kb/hls/index.m3u8
 武则天729,https://ckzy1com.com/20221217/r8OKLHTx/index.m3u8
 茶园春色,https://play1.sewobofang.4,com/20220604/YyPZgdHm/index.m3u8
-🔞日韩影片_333,#genre#
+🔞日韩影片,#genre#
 Kpop Girl Does Porn,http://60106.vod.redtraffic.xyz/ph568fdb5194a8b/play.m3u8 
 コスプレアイドルに,https://cf005.paopao.video:443/9C3C292CD89D64F2E8A14717A50881B08E7105B9
 JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
@@ -1929,7 +1929,7 @@ JOA,https://2.ddyunbo.com/20190914/vL0TDJOa/index.m3u8
 1pon113017_612市来美保究極マゾhttps://www.lbbf9.com/20210617/ox8fTZKt/700kb/hls/index.m3u8
 1pon061110_854,https://www.lbbf9.com/20200521/p3mHHHdx/700kb/hls/index.m3u8
 1pon_北条麻妃美痴女,https://vip3.lbbf9.com/20220109/mTNDPovo/1000kb/hls/index.m3u8
-🔞欧美影片_24758,#genre#
+🔞欧美影片,#genre#
 Losing Kayden,https://f005.paopao.video:443/AE01C46A719560D30C8FFF53E7738F703D6C489C
 Beautiful Cocksucker - Veronika Charm,http://12204.vod.adultiptv.net/ph59e4632689f28/play.m3u8
 Она предпочитает постарше,https://video2.tizam.cc/files/2239187/molodoy__18_let__opyt.mp4
@@ -2250,7 +2250,7 @@ UNDEFINED 13236,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/132
 UNDEFINED 13237,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13237.mp4
 UNDEFINED 13238,http://87.98.184.134/vidshd/56ea912c4df934c216c352fa8d623af3/13238.mp4
 
-成人频道_333,#genre#
+成人频道#genre#
 Pornstar,http://live.adultiptv.net/pornstar.m3u8
 Big Ass,http://live.adultiptv.net/bigass.m3u8
 Interracial,http://live.adultiptv.net/interracial.m3u8
@@ -2272,7 +2272,7 @@ Blonde,http://live.adultiptv.net/blonde.m3u8
 Gay,http://live.adultiptv.net/gay.m3u8
 Asian,http://live.adultiptv.net/asian.m3u8
 
-成人视频_333,#genre#
+成人视频,#genre#
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
 耳边细语,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
@@ -2325,7 +2325,7 @@ SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
 ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
 WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 
-玩偶_333,#genre#
+玩偶,#genre#
 森林00-她的妄想,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/8c/sf/lc/5c/34774a9c12b649619c8f4049759c35bf.m3u8?
 森林01-相遇,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/q9/cf/me/5p/453774d191ce481d9714925f1fba72bc.m3u8?
 森林02-欺骗,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/jm/jr/pg/bh/03dd6e239b5c40ceb3b156344a64b372.m3u8?
@@ -2360,7 +2360,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 短片-「晨」,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/eo/hw/ag/q1/1105642eb79f45f580c473c9fcb64725.m3u8?
 花絮-公共场合,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/lu/2b/qx/84/13f8f69e45ff4c85ac114a3df7b1ca9e.m3u8?
 
-香港_333,#genre#
+香港,#genre#
 一路向西,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fd/ea/eu/2q/7bd22841f6dd4b768ab5d1e38419bf4b.m3u8?
 鸭王,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fo/4n/1u/xg/304cc44af0334b39b0989c4e224ec966.m3u8?
 爱很烂,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/vf/c1/xy/je/9c181c81984e456a9ade1fa8c0021770.m3u8?
@@ -2395,7 +2395,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 不文小丈夫之银座嬉春,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/7n/s6/95/b4/64b1be8333004ba5ae30665390893889.m3u8?
 花街狂奔,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/zu/ty/p1/jk/3259f3f5abad4eb59e6eb0d81e9c14f1.m3u8?
 
-兔子先生_333,#genre#
+兔子先生,#genre#
 痴汊尾行-餐廳露出強姦/TZ-107,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/7o/ry/4q/lz/15ef36cf640a48c9bbb81706376f16d7.m3u8?
 母親節特别篇-給儿子的禮物/TZ-106,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/ee/8r/8k/la/7087fb756fad43fea40d8a28394cde3b.m3u8?
 爸氣十足 EP21/DAD-005,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/dx/li/rm/6c/4d0d807b45394e898839f5f404a8e664.m3u8?
@@ -2444,7 +2444,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 爸氣十足EP3/乾爹情趣調教贈禮!/TZ-013,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/o9/9l/u1/zi/75061ae3724842c8bfafe0acad6274fc.m3u8?
 爸氣十足 EP2/潮吹噴發的乾爹調教!/TZ-012,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/yh/rf/go/z5/f4fe59641f854fd38ca03b0f2fb5f696.m3u8?
 
-麻豆-探花_333,#genre#
+麻豆-探花,#genre#
 「老司机探花」肤白貌美极品模特 黑丝美腿窈窕身材,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/ph/9a/u6/nj/26ee6ad56ae1450fbe1977dcc2674350.m3u8?
 「推车哥探花」窈窕软妹酥胸乱跳 极品身材前凸后翘,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/lg/36/43/id/dbd5aa9ed32246efb3ac01b1455b335f.m3u8?
 「推车哥探花」清纯小妹矫嗔绝顶 老汉推车横冲直撞,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2l/tb/7j/hs/81cf27424e764b8aa117e39b38b61795.m3u8?
@@ -2453,7 +2453,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 「老司机探花」高冷兼职娇俏面容 辣手摧花毫不留情,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/fp/cs/kg/in/9024167783e041389c8b00e572088d43.m3u8?
 「老司机探花」老司机飞行体验 高冷空乘黑丝求爱,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/hz/q0/p4/xh/9c400befeed34d6ab4bdb47111f6986b.m3u8?
 
-麻豆-MSD_333,#genre#
+麻豆-MSD,#genre#
 MSD-0161/防火防盜防闺蜜,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/m7/8t/hq/kv/da306e5145c64c8f9ae5e0c61fb33fd7.m3u8?
 MSD-137/热恋情侣重聚炮,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/x3/q1/02/vg/a3f1a279e76f4d59b1a8f83ee1848570.m3u8?
 MSD-134/九头身长腿新玩法 / 浅尝瑜伽裤下出汗蜜穴,https://fufxtyc.bytebwq.com/api/app/media/m3u8/v2/av/ax/40/k7/y1/237063f300bd45febc31a23d1bce786a.m3u8?
@@ -2494,7 +2494,7 @@ MSD-008/出轨的妖艳少妇,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/
 MSD-003/菜鸟特务,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/kn/99/yw/34/c3ac47258c9f4b7399c6a6543b80b8c1.m3u8?
 MSD-001/乱伦迷情药,https://fufxtyc.bytebwq.com/api/app/media/m3u8/av/qi/oi/gz/ux/dbf57474fbed49c9aa3fb97bcd75b891.m3u8?
 
-欧美_333,#genre#
+欧美,#genre#
 Tiny 4K,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6258/index.m3u8
 Adult Time,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6166/index.m3u8
 Analized HD,http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6168/index.m3u8
@@ -2573,7 +2573,7 @@ Blonde,http://cdn.adultiptv.net/blonde.m3u8
 Gay,http://cdn.adultiptv.net/gay.m3u8
 Asian,http://cdn.adultiptv.net/asian.m3u8
 
-日本_333,#genre#
+日本,#genre#
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
 耳边细语,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
@@ -2623,7 +2623,7 @@ ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3
 UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
 WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 
-其它_333,#genre#
+其它,#genre#
 🔞 Erox,http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
 🔞 Eroxxx,http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
 🔞 Private,http://146.59.54.163/356/playlist.m3u8
@@ -2634,7 +2634,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 🔞 Babes,http://146.59.54.163/354/index.m3u8
 🔞 Playboy+,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/6242/index.m3u8
 
-歐美_333,#genre#
+歐美,#genre#
 Compilation,http://cdn.adultiptv.net/compilation.m3u8
 BigDick,http://live.redtraffic.xyz/bigdick.m3u8
 BigTits,http://live.redtraffic.xyz/bigtits.m3u8
@@ -2642,11 +2642,11 @@ Hardcore,http://live.redtraffic.xyz/hardcore.m3u8
 Lesbian,http://live.redtraffic.xyz/lesbian.m3u8
 Threesome,http://live.redtraffic.xyz/threesome.m3u8
 
-番號_333,#genre#
+番號,#genre#
 ABP-981,https://siwazywcdn2.com:5278/zhongwenzimu/yUJdhNRX/index.m3u8
 DASD-819,https://siwazywcdn2.com:5278/zhongwenzimu/9EXSkId8/index.m3u8
 
-AM_333,#genre#
+AM,#genre#
 AdultIPTV.net Big Dick (720p),https://cdn.adultiptv.net/bigdick.m3u8
 AdultIPTV.net Big Tits (720p),https://cdn.adultiptv.net/bigtits.m3u8
 AdultIPTV.net Blowjob (720p),https://cdn.adultiptv.net/blowjob.m3u8
@@ -2683,7 +2683,7 @@ Redlight HD (720p),https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
 松视2,http://live.redtraffic.xyz:80/bigdick.m3u8
 玩美台,http://live.redtraffic.xyz:80/pov.m3u8
 限制级,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-最近更新_333,#genre#
+最近更新,#genre#
 蜜室桃脱DYMT002第2期风船地狱,https://t21.cdn2020.com/video/m3u8/2023/04/21/d7c87b3d/index.m3u8
 首次拍摄白嫩正妹欧比,https://t21.cdn2020.com/video/m3u8/2023/04/21/b6f54ba0/index.m3u8
 天美传媒TMG094婊妹觊觎我的大鸡巴,https://t21.cdn2020.com/video/m3u8/2023/04/21/b3763059/index.m3u8
@@ -2718,7 +2718,7 @@ ADN-462 意外看到公公自慰-三宫椿,https://t21.cdn2020.com/video/m3u8/20
 天美传媒TMBC032强上不爱穿内裤的远房表姐,https://t21.cdn2020.com/video/m3u8/2023/04/25/4658efff/index.m3u8
 ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/video/m3u8/2023/04/25/299391d5/index.m3u8
 
-欧美成人_333,#genre#
+欧美成人,#genre#
 好朋友变炮友,https://z100.cdn2020.com/video/m3u8/2020/07/09/22a91523/index.m3u8
 你想做爱或走,https://z100.cdn2020.com/video/m3u8/2020/06/17/90840af7/index.m3u8
 新鲜的大屌,https://z100.cdn2020.com/video/m3u8/2020/06/17/ec0ebb17/index.m3u8
@@ -2763,7 +2763,7 @@ ADN-459 为了最爱的丈夫守住身体-加藤结衣,https://t21.cdn2020.com/v
 我是很紧的,https://z100.cdn2020.com/video/m3u8/2019/08/16/13fbba26/index.m3u8
 我们刚认识,https://z100.cdn2020.com/video/m3u8/2019/08/16/42558909/index.m3u8
 
-无码中文_333,#genre#
+无码中文,#genre#
 022120-001-carib 温泉老板娘吉川恋的特殊服务,https://t21.cdn2020.com/video/m3u8/2023/01/31/2be430ca/index.m3u8
 SMBD-128 爱泽花梨首次下马作品,https://t21.cdn2020.com/video/m3u8/2023/01/29/e656ed9e/index.m3u8
 MKD-S11 强制爱液-西山希,https://t21.cdn2020.com/video/m3u8/2023/01/19/f34df686/index.m3u8
@@ -2820,7 +2820,7 @@ MIDV-341 诡计可爱的接待小姐-桐夜悠羽,https://t21.cdn2020.com/video/
 MIDV-285 戴上耳机享受恋爱般的自慰帮助-石川澪,https://t21.cdn2020.com/video/m3u8/2023/04/19/368d1282/index.m3u8
 CAWD-519 沾满唾液的唇舌-伊藤舞雪,https://t21.cdn2020.com/video/m3u8/2023/04/19/85977503/index.m3u8
 
-国产视频1_333,#genre#
+国产视频1,#genre#
 04年极品白丝嫩足,https://t21.cdn2020.com/video/m3u8/2023/02/01/18ac5bce/index.m3u8
 18岁小嫩妹辍学做外围-田伯光,https://t21.cdn2020.com/video/m3u8/2023/04/13/d7cb73d8/index.m3u8
 3000约操18岁大一新生-八戒,https://t21.cdn2020.com/video/m3u8/2023/03/22/8b0e62d5/index.m3u8
@@ -2897,7 +2897,7 @@ sawy356和细腿蛮腰小酥胸的死库妹妹,https://t21.cdn2020.com/video/m3u
 SA国际传媒SAQP001外送员复仇送上比萨屌打,https://t21.cdn2020.com/video/m3u8/2023/01/24/15830caa/index.m3u8
 SA国际传媒SAQP019与青梅竹马激情相遇,https://t21.cdn2020.com/video/m3u8/2023/03/12/524487a7/index.m3u8
 
-国产视频2_333,#genre#
+国产视频2,#genre#
 SA国际传媒SAT0056玩大老二输了脱一件,https://t21.cdn2020.com/video/m3u8/2023/01/20/7b288399/index.m3u8
 SA国际传媒SAT0059想上游泳课却带错泳装,https://t21.cdn2020.com/video/m3u8/2023/01/27/6b677b3a/index.m3u8
 SA国际传媒SAT0062新年聚会的目的,https://t21.cdn2020.com/video/m3u8/2023/01/26/c9fd522d/index.m3u8
@@ -2950,7 +2950,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 代替闺蜜去相亲却意外钩上凯子,https://t21.cdn2020.com/video/m3u8/2023/03/24/6eaee016/index.m3u8
 代孕妈妈的播种流程-桃桃妹,https://t21.cdn2020.com/video/m3u8/2023/01/31/1c9e924f/index.m3u8
 
-国产视频3_333,#genre#
+国产视频3,#genre#
 单身哥哥偷拿妹妹内衣打飞机,https://t21.cdn2020.com/video/m3u8/2023/02/21/baaaa3f6/index.m3u8
 弟弟看见姐姐自慰提枪上马就是干,https://t21.cdn2020.com/video/m3u8/2023/02/19/a11d8fe8/index.m3u8
 订婚前的缠绵哪怕结婚依然愿意被你操,https://t21.cdn2020.com/video/m3u8/2023/03/20/44bf5c0a/index.m3u8
@@ -2985,7 +2985,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 精东影业JD138确诊了还是想做爱,https://t21.cdn2020.com/video/m3u8/2023/03/31/ef942b2c/index.m3u8
 精东影业JD141冲绳旅行上集,https://t21.cdn2020.com/video/m3u8/2023/04/09/5bc70b69/index.m3u8
 
-国产视频4_333,#genre#
+国产视频4,#genre#
 精东影业JD143童子军失去童子身,https://t21.cdn2020.com/video/m3u8/2023/04/18/4a3de4f0/index.m3u8
 精东影业JDBC009叫鸡叫到亲妹妹乱伦带妹上岸,https://t21.cdn2020.com/video/m3u8/2023/01/20/0a66c5a4/index.m3u8
 精东影业JDBC019趁爸妈不在家兄妹偷做爱,https://t21.cdn2020.com/video/m3u8/2023/02/15/08bad689/index.m3u8
@@ -3050,7 +3050,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 蜜桃传媒PMC385在丈夫面前被小叔侵犯,https://t21.cdn2020.com/video/m3u8/2023/02/17/a5d808d6/index.m3u8
 蜜桃传媒PMC386不停玩弄妹妹的敏感奶头,https://t21.cdn2020.com/video/m3u8/2023/02/19/232a5721/index.m3u8
 
-国产视频5_333,#genre#
+国产视频5,#genre#
 蜜桃传媒PMC398到府水电工强奸美丽少妇,https://t21.cdn2020.com/video/m3u8/2023/03/10/cf5d2424/index.m3u8
 蜜桃传媒PMC400止不住的激情高潮,https://t21.cdn2020.com/video/m3u8/2023/03/15/ed913b9a/index.m3u8
 蜜桃传媒PMC406准新娘被前任操得高潮不止,https://t21.cdn2020.com/video/m3u8/2023/03/29/541740fa/index.m3u8
@@ -3097,7 +3097,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 上门技师的泰式按摩前例腺排毒法,https://t21.cdn2020.com/video/m3u8/2023/02/21/d241fc27/index.m3u8
 世纪杯足球宝贝主题的情趣诱惑-小蜜,https://t21.cdn2020.com/video/m3u8/2023/04/14/e1d34f3e/index.m3u8
 
-国产视频6_333,#genre#
+国产视频6,#genre#
 她说她非常想要一个大鸡巴-唐伯虎,https://t21.cdn2020.com/video/m3u8/2023/03/23/5d997355/index.m3u8
 泰国年轻小情侣药物助兴,https://t21.cdn2020.com/video/m3u8/2023/02/07/bb4e5403/index.m3u8
 探秘电竞酒店的特殊陪玩服务-美酱,https://t21.cdn2020.com/video/m3u8/2023/01/27/34d10833/index.m3u8
@@ -3147,7 +3147,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 兔子先生DAD-003-EP19爸气十足EP19,https://t21.cdn2020.com/video/m3u8/2023/03/24/0bb402bd/index.m3u8
 兔子先生DAD-004_EP21爸气十足EP21,https://t21.cdn2020.com/video/m3u8/2023/04/24/fb45a013/index.m3u8
 
-国产视频7_333,#genre#
+国产视频7,#genre#
 兔子先生DAD-004-EP20爸气十足EP20,https://t21.cdn2020.com/video/m3u8/2023/04/11/18fc4940/index.m3u8
 兔子先生TZ-099春之夜与她一夜情久难忘,https://t21.cdn2020.com/video/m3u8/2023/03/23/0266a92f/index.m3u8
 兔子先生TZ-101突然袭击乱入3P,https://t21.cdn2020.com/video/m3u8/2023/04/07/c0d87b85/index.m3u8
@@ -3185,7 +3185,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 星空传媒XKWTB041高冷骑士用紧实嫩穴换取重型机车,https://t21.cdn2020.com/video/m3u8/2023/02/13/d87b2362/index.m3u8
 星空影迷福利线下粉丝祭之一泊二日帝王般的享受,https://t21.cdn2020.com/video/m3u8/2023/02/15/fe411632/index.m3u8
 
-国产视频8_333,#genre#
+国产视频8,#genre#
 学姐带学妹MOTEL实战教学,https://t21.cdn2020.com/video/m3u8/2023/01/28/8fea54f6/index.m3u8
 学生妹真仙气操得直呼受不了瘫软在地,https://t21.cdn2020.com/video/m3u8/2023/03/16/ce82c2d8/index.m3u8
 野外站街小树林接客-樱花小猫,https://t21.cdn2020.com/video/m3u8/2023/02/28/4dd7a78c/index.m3u8
@@ -3201,7 +3201,7 @@ SA国际传媒SATX006约炮约到以前学校暗恋对象,https://t21.cdn2020.co
 真心话大冒险-玩偶姐姐,https://t21.cdn2020.com/video/m3u8/2023/03/29/99376ff0/index.m3u8
 最佳撸点纯享版,https://t21.cdn2020.com/video/m3u8/2023/02/01/fc73dd29/index.m3u8
 
-日韩AV1_333,#genre#
+日韩AV1,#genre#
 DASS-124 双亲不在的两天-东条夏,https://t21.cdn2020.com/video/m3u8/2023/04/21/592cacd4/index.m3u8
 MIDV-281 父母再婚后有了哥哥-五芭,https://t21.cdn2020.com/video/m3u8/2023/04/21/777dabc2/index.m3u8
 ATID-212 沉溺触手-水无濑优夏,https://t21.cdn2020.com/video/m3u8/2023/04/21/1d11c31b/index.m3u8
@@ -3263,7 +3263,7 @@ JUQ-205 不道德的交合方式-向井藍,https://t21.cdn2020.com/video/m3u8/20
 ZOZO-153 被高薪工作欺骗,https://t21.cdn2020.com/video/m3u8/2023/04/07/1b408fc3/index.m3u8
 JUQ-188 激烈的偷情-岬さくら,https://t21.cdn2020.com/video/m3u8/2023/04/07/27a9643f/index.m3u8
 
-日韩AV2_333,#genre#
+日韩AV2,#genre#
 SDJS-181 来访的求职者,https://t21.cdn2020.com/video/m3u8/2023/04/06/8f689b49/index.m3u8
 STARS-756  変態医師-宮島めい,https://t21.cdn2020.com/video/m3u8/2023/04/06/7b2d821c/index.m3u8
 STARS-803 非常粗的大鸡巴-青空ひかり,https://t21.cdn2020.com/video/m3u8/2023/04/06/387372f4/index.m3u8
@@ -3333,7 +3333,7 @@ COGM-040 禁忌的滋味,https://t21.cdn2020.com/video/m3u8/2023/03/25/36a74076/
 IPZZ-005 无敌的身体-八蜜凛,https://t21.cdn2020.com/video/m3u8/2023/03/25/77c43018/index.m3u8
 WAAA-244 在老板家过夜-新井リマ,https://t21.cdn2020.com/video/m3u8/2023/03/25/9bbb8b73/index.m3u8
 
-日韩AV3_333,#genre#
+日韩AV3,#genre#
 mimk-054 我的丰满阿姨-春菜はな,https://t21.cdn2020.com/video/m3u8/2023/03/24/9a563f7a/index.m3u8
 soe-446 带着新买的相机去旅行-麻美ゆま,https://t21.cdn2020.com/video/m3u8/2023/03/24/d8155086/index.m3u8
 xvsr-538 被部长用视频威胁侵犯-倉多まお,https://t21.cdn2020.com/video/m3u8/2023/03/24/f28ed980/index.m3u8
@@ -3398,7 +3398,7 @@ JUY-383 小姨子的紧身白臀-安西ひかり,https://t21.cdn2020.com/video/m
 PRED-451 同窓会NTR,https://t21.cdn2020.com/video/m3u8/2023/03/15/c5a0131d/index.m3u8
 JUQ-168 无法拒绝她公公的求爱-美丘さとみ,https://t21.cdn2020.com/video/m3u8/2023/03/15/085d3dfb/index.m3u8
 
-日韩AV4_333,#genre#
+日韩AV4,#genre#
 PPPE-098 后宫美容院-小花のん 百永さりな,https://t21.cdn2020.com/video/m3u8/2023/03/15/929935f4/index.m3u8
 PRED-454 极端高潮-長谷川夕奈,https://t21.cdn2020.com/video/m3u8/2023/03/15/3df30e34/index.m3u8
 SSNI-994 秘密捜査官-鷲尾めい,https://t21.cdn2020.com/video/m3u8/2023/03/15/be73125d/index.m3u8
@@ -3463,7 +3463,7 @@ NUKA-061 近親相姦密着交尾-川畑千代子,https://t21.cdn2020.com/video/
 YMDS-129 台风来了无法连续拍摄,https://t21.cdn2020.com/video/m3u8/2023/03/06/8d98b12f/index.m3u8
 MVSD-532 叔叔的阴部糖果-希咲那奈,https://t21.cdn2020.com/video/m3u8/2023/03/06/1326ba13/index.m3u8
 
-日韩AV5_333,#genre#
+日韩AV5,#genre#
 snis-712 粉丝感谢祭-RION,https://t21.cdn2020.com/video/m3u8/2023/03/05/66f299b8/index.m3u8
 rbd-542 希望成为料理研究家-二宮ナナ,https://t21.cdn2020.com/video/m3u8/2023/03/05/ed4cb9ed/index.m3u8
 rbd-827 我最爱的老婆-松下紗栄子,https://t21.cdn2020.com/video/m3u8/2023/03/05/ffd7d549/index.m3u8
@@ -3513,7 +3513,7 @@ UMD-854 我在医院呆得太久了,https://t21.cdn2020.com/video/m3u8/2023/02/2
 KBI-098 优质的自慰辅助工具-松岡すず,https://t21.cdn2020.com/video/m3u8/2023/02/26/fa859931/index.m3u8
 XVSR-692 鱿鱼大作战-浜崎真緒,https://t21.cdn2020.com/video/m3u8/2023/02/26/0c40e99a/index.m3u8
 
-日韩AV6_333,#genre#
+日韩AV6,#genre#
 CAWD-510 第一次喚醒大陰莖-梦莉莉香,https://t21.cdn2020.com/video/m3u8/2023/04/25/ca49cd21/index.m3u8
 FSDSS-569 被大佬关在隔壁垃圾房-神木兰,https://t21.cdn2020.com/video/m3u8/2023/04/25/52520eff/index.m3u8
 SSIS-666 被不喜欢的同学用口交进行奖励-miru,https://t21.cdn2020.com/video/m3u8/2023/04/25/b1602020/index.m3u8
@@ -3560,7 +3560,7 @@ STARS-599 无限制拍摄-神木麗,https://t21.cdn2020.com/video/m3u8/2023/02/1
 SDDE-627 心跳挑战-稲場るか,https://t21.cdn2020.com/video/m3u8/2023/02/15/7e47bee5/index.m3u8
 STARS-745 第一次禁欲一个月-MINAMO,https://t21.cdn2020.com/video/m3u8/2023/02/15/120df504/index.m3u8
 
-日韩AV7_333,#genre#
+日韩AV7,#genre#
 MOGI-079 她青涩可爱的好朋友-白花のん,https://t21.cdn2020.com/video/m3u8/2023/02/15/e744c946/index.m3u8
 BKD-261 母子交尾-成宮いろは,https://t21.cdn2020.com/video/m3u8/2023/02/13/5559e417/index.m3u8
 MVG-040 緊縛学園-松本いちか,https://t21.cdn2020.com/video/m3u8/2023/02/13/27b6b2ae/index.m3u8
@@ -3619,7 +3619,7 @@ BLK-619 厉害的关西姑娘-新井リマ,https://t21.cdn2020.com/video/m3u8/20
 STAR-818 近親相姦生活-榎本美咲,https://t21.cdn2020.com/video/m3u8/2023/02/01/e8f68d51/index.m3u8
 URKK-073 变态房东每天都在揉搓我的奶子,https://t21.cdn2020.com/video/m3u8/2023/01/31/02b3c007/index.m3u8
 
-日韩AV8_333,#genre#
+日韩AV8,#genre#
 XVSR-054 只要一按铃马上出现解决问题的白衣天使,https://t21.cdn2020.com/video/m3u8/2023/01/31/d3404202/index.m3u8
 022120-001-carib 温泉老板娘吉川恋的特殊服务,https://t21.cdn2020.com/video/m3u8/2023/01/31/7bc5abca/index.m3u8
 EKDV-207 絶頂侵犯-長澤あずさ,https://t21.cdn2020.com/video/m3u8/2023/01/31/0fda94ea/index.m3u8
@@ -3677,7 +3677,7 @@ HDKA-274 探访护理员-川上ゆう,https://t21.cdn2020.com/video/m3u8/2023/01
 YSN-589 我很想被玩弄-佐藤ののか,https://t21.cdn2020.com/video/m3u8/2023/01/25/e092a149/index.m3u8
 HZGD-234 妊娠危険日-桃瀬くるみ,https://t21.cdn2020.com/video/m3u8/2023/01/25/5d5c6acf/index.m3u8
 
-精品推荐_333,#genre#
+精品推荐,#genre#
 004,https://vip1.slbfsl.com/20221115/sw7cJHQT/index.m3u8
 004,https://askzybf.com/20230322/4omOCsbz/index.m3u8
 【雀儿漫天飞】约了个大长腿妹子,https://vip1.slbfsl.com/20221129/7LWdKPhS/index.m3u8
@@ -3747,7 +3747,7 @@ MMZ008我老公是绿帽奴-白若冰,https://vip1.slbfsl.com/20220807/U6vc3zYX/
 MMZ008我老公是绿帽奴-白若冰,https://vod1.ttbfp2.com/20220314/jOZAVODV/index.m3u8
 MMZ008我老公是绿帽奴-白若冰,https://siwazywcdn2.com:5278/cvguochanzipai/WSYk3V0d/index.m3u8
 
-国产色情_333,#genre#
+国产色情,#genre#
 HongKongDoll玩偶姐姐森林 - 第二集 woods - Episode 2 欺骗 Lies,https://vip2.slbfsl.com/20230226/FrtYhWPU/index.m3u8
 一直流出白浆的小穴!!,https://vip2.slbfsl.com/20230421/0Gt93IDS/index.m3u8
 【免费】订婚前的回忆-香菜公主,https://vip2.slbfsl.com/20230325/hESd97Cu/index.m3u8
@@ -3814,7 +3814,7 @@ JD108  老公無能不能滿足,https://vip2.slbfsl.com/20230119/0mnwIMN2/index.
 JD052  迷奸,https://vip2.slbfsl.com/20230119/Z991Zfh2/index.m3u8
 JD059  百萬交易,https://vip2.slbfsl.com/20230119/skQNbt4q/index.m3u8
 
-亚洲无码_333,#genre#
+亚洲无码,#genre#
 Carib 041210-345 ピンサロの面接現場に潜入！本来無いはずの???,https://vip1.slbfsl.com/20220818/C9vACssS/index.m3u8
 Carib 041210-345 ピンサロの面接現場に潜入！本来無いはずの???,https://aosikazy12.com/20220929/iqUTZL9A/index.m3u8
 Carib 122819-001 白杞りり ピタパン美巨尻家政婦の年末大掃除２,https://aosikazy12.com/20220929/7dcRQciZ/index.m3u8
@@ -3913,7 +3913,7 @@ FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢し�
 模型集合,https://vip2.slbfsl.com/20230421/FzB2ETjj/index.m3u8
 模特的集合,https://vip2.slbfsl.com/20230421/jXtbHqut/index.m3u8
 
-中文字幕_333,#genre#
+中文字幕,#genre#
 IPX-460-CN 讓我使出全力協助您自慰 深田詠美,https://vip2.slbfsl.com/20230325/g69AmNYa/index.m3u8
 IPX-458-CN 與討厭到死的公司上司出差在溫泉旅館住同房&amp;amp;hellip; 被醜陋絶倫大叔搞到持續高潮的我。 初音實,https://vip2.slbfsl.com/20230325/lMITx6TV/index.m3u8
 IPX-459-CN 素股摩擦防御力降為零的高潮風俗嬢 希島愛理,https://vip2.slbfsl.com/20230325/18GBc5Le/index.m3u8
@@ -3967,7 +3967,7 @@ NATR-626-CN 苦しい家計を体で補填 七瀬ひな,https://vip2.slbfsl.com/
 驚愕の絶倫10コーナー！,https://vip2.slbfsl.com/20230416/JCVqewth/index.m3u8
 妹に欲望剥き出しでハメまくった中出し記録,https://vip2.slbfsl.com/20230420/bIRLVu8B/index.m3u8
 
-人妻熟女_333,#genre#
+人妻熟女,#genre#
 五感を奪う超高級旅館,https://vip2.slbfsl.com/20230301/7oVOnrWB/index.m3u8
 完全主観で楽しむとの新婚生活,https://vip2.slbfsl.com/20230301/0OY4empe/index.m3u8
 -恩師と朝まで！,https://vip2.slbfsl.com/20230308/5XzILfkw/index.m3u8
@@ -3998,7 +3998,7 @@ W雙姦姊妹,https://vip2.slbfsl.com/20230323/3NvBd8hx/index.m3u8
 風俗いくなら私がしてあげる,https://vip2.slbfsl.com/20230409/NQuN1xK0/index.m3u8
 浮気經驗しのアンコはヌレヌレ,https://vip2.slbfsl.com/20230410/DEs9cUwG/index.m3u8
 
-强奸乱伦_333,#genre#
+强奸乱伦,#genre#
 -夫の上司に犯され続けて7日目！,https://vip2.slbfsl.com/20230308/K28buMUF/index.m3u8
 -寿退社を祝う温泉旅行で、私は上司に中出しされ続けて―！,https://vip2.slbfsl.com/20230314/NXm8SxVW/index.m3u8
 「先生、私、進学します」進路まで決めてくれた大事な恩師とデリヘルバイトで再開。,https://vip2.slbfsl.com/20230321/TlR2nROW/index.m3u8
@@ -4047,7 +4047,7 @@ SEXでドバドバドーパミン！,https://vip2.slbfsl.com/20230323/t0MxcLJi/i
 母親が絶頂50回突破するエロス極限トランス中出し,https://vip2.slbfsl.com/20230421/lfeFynGa/index.m3u8
 母をイジメっ子の同級生にNTRれたいじめ,https://vip2.slbfsl.com/20230421/udtZewD7/index.m3u8
 
-欧美精品_333,#genre#
+欧美精品,#genre#
 Young coach seduced and fucked busty mature woman India Summermp4,https://vip1.slbfsl.com/20221016/mGB4OsHe/index.m3u8
 Tattooed hot MILF Synthia Fixx gets assfucked from behindmp4,https://vip1.slbfsl.com/20221016/D5eWJFFH/index.m3u8
 Kendra Lust - Married swinger couple seduced sweet girl Holly Michaels,https://vip1.slbfsl.com/20221025/tMO6PZ2h/index.m3u8
@@ -4158,7 +4158,7 @@ Big Booty Senorita Luna Star Riding Family Man 除夕夜,https://vip1.slbfsl.com
 大 脂肪 战利品 摩洛伊斯兰解放阵线 伦敦 河 获取 assfucked 通过 她的 继子,https://vod1.ttbfp2.com/20220123/iHga0SXD/index.m3u8
 Solo Porn With Russian MILFs. She Woke Up And Wanted Sex,https://vip1.slbfsl.com/20220808/LGsdrF69/index.m3u8
 
-萝莉少女_333,#genre#
+萝莉少女,#genre#
 食奴尻,https://vip2.slbfsl.com/20230227/XuBpN6Pt/index.m3u8
 私、実は夫の上司に犯●れ続けてます…,https://vod3.ttbfp5.com/20230227/Dco5IBs4/index.m3u8
 所有作品完成8小時,https://vip2.slbfsl.com/20230228/dVpWjPBq/index.m3u8
@@ -4178,7 +4178,7 @@ NGR ―ナガサレ― 義弟に犯●れ初めての絶頂を知った嫁,https
 このカラダで私は生きていく！引きこもり神クビレBODY 初めてのナマ中出し,https://vip2.slbfsl.com/20230327/zViZzTRV/index.m3u8
 こんなにエッチが上手いなんて聞いてない,https://vip2.slbfsl.com/20230327/6658p03J/index.m3u8
 
-制服丝袜_333,#genre#
+制服丝袜,#genre#
 BLK-544 永井瑪麗亞的POWER PLAY逆NTR 永井瑪麗亞,https://askzybf.com/20230123/irfpmUhp/index.m3u8
 BLK-598 エゲツない大☆絶☆頂SPECIAL！！！（※ほぼノーカットVersion） のんちゃん 小花暖,https://askzybf.com/20230123/4eEBhrsR/index.m3u8
 SORA-335 前略、通りすがりの貴方様 私が発情する前にマ◎コの媚薬栓抜いてください… 丹羽蓳,https://vip2.slbfsl.com/20230203/IcvIZbMK/index.m3u8
@@ -4218,7 +4218,7 @@ M髒話面具,https://vip2.slbfsl.com/20230323/NB0yo3qS/index.m3u8
 大好きたっぷり濡らされて準備は萬端,https://vip2.slbfsl.com/20230408/1kx0XrPA/index.m3u8
 大興奮たまらずリアル暴発,https://vip2.slbfsl.com/20230409/iiyG1ou7/index.m3u8
 
-口交颜射_333,#genre#
+口交颜射,#genre#
 流出版-藤原ひとみ無碼流出,https://vip2.slbfsl.com/20230224/ooUT2a8X/index.m3u8
 乱行大好き娘x2と子作り４P天国,https://vip2.slbfsl.com/20230224/5O6H6G2v/index.m3u8
 強制深喉嚨,https://vip2.slbfsl.com/20230226/uYLUrLda/index.m3u8
@@ -4264,7 +4264,7 @@ Sクラスレンドンホットフロー嬲kan徹底トレーニング,https://v
 南部デートパート1のSEX,https://vip2.slbfsl.com/20230421/1erMFhLl/index.m3u8
 面接メンエス盗撮 リンカさん,https://vip2.slbfsl.com/20230421/73goiTqA/index.m3u8
 
-日本精品_333,#genre#
+日本精品,#genre#
 032420_01-10MU 天然むすめ 032420_01 今日リクルートスーツを脱ぎます 野本裕子,https://askzybf.com/20221125/1SfbybAb/index.m3u8
 032220_990-1PON 朝ゴミ出しする近所の遊び好きノーブラ奥さん 杉山千佳,https://askzybf.com/20221125/YH1bUm0f/index.m3u8
 息子の友達の制御不能な絶倫交尾でイカされ続けて…,https://siwazywcdn2.com:5278/zhongwenzimu/2QGxn3B1/index.m3u8
@@ -4313,7 +4313,7 @@ NTR自慢日記～Gカップの生意気教育ママを、媚薬と巨チンで�
 奴●メイドの館 ～主従のレズビアンお嬢様～,https://vip2.slbfsl.com/20230422/qq5whUxX/index.m3u8
 怒涛の5名全員中出し達成！,https://vip2.slbfsl.com/20230422/luWnKQhM/index.m3u8
 
-台湾辣妹_333,#genre#
+台湾辣妹,#genre#
 愧疚的哥哥酒后强奸了妹妹！,https://vip1.slbfsl.com/20230108/elyKEKti/index.m3u8
 美丽善良的家政妇被迫沦为富家少爷的玩物！,https://vip1.slbfsl.com/20230109/ufnXOXcE/index.m3u8
 柚子猫Yuzukitty-足交,https://vip2.slbfsl.com/20230114/JO0ltISZ/index.m3u8
@@ -4332,7 +4332,7 @@ HongKongDoll玩偶姐姐 晨钟 暮鼓,https://askzybf.com/20230421/qZ5z4AVf/ind
 探花系列-约个高档外围打一炮,https://vip2.slbfsl.com/20230407/JFICSrAn/index.m3u8
 顔值不錯妹子，舌吻逼摸後入抽插上位騎乘猛操,https://vip2.slbfsl.com/20230413/heNRuagt/index.m3u8
 
-韩国御姐_333,#genre#
+韩国御姐,#genre#
 JVID《情趣红娘自慰成癮》,https://vip1.slbfsl.com/20221214/pAVqCU4s/index.m3u8
 JVID《情趣红娘自慰成癮》,https://askzybf.com/20230117/phi6f2Tv/index.m3u8
 JVID《精油胴体的妹子被炮机不停抽插强制高潮》,https://askzybf.com/20230117/Qs77dMMi/index.m3u8
@@ -4365,7 +4365,7 @@ SOD酒吧轉移,https://vip2.slbfsl.com/20230323/2XUueN7k/index.m3u8
 夢のドライオーガズム開発！,https://vip2.slbfsl.com/20230421/hwA8uLB8/index.m3u8
 秘書美麗家畜俱樂部鋼棒目標情報落到了地上,https://vip2.slbfsl.com/20230421/b7VDouA4/index.m3u8
 
-唯美港姐_333,#genre#
+唯美港姐,#genre#
 EDMosaic-短发妹在床上被小哥哥用器具玩弄完小穴后抽插做爱,https://askzybf.com/20230112/vkRBxKpT/index.m3u8
 JVID【孟若羽】《极乐按摩湿》屁眼不可以掰开！,https://vip1.slbfsl.com/20221214/WsjyDepT/index.m3u8
 JVID【孟若羽】《极乐按摩湿》屁眼不可以掰开！,https://askzybf.com/20230118/zjdkB2Tj/index.m3u8
@@ -4404,7 +4404,7 @@ XKTC013下海援交日記之墮落的網紅,https://vip2.slbfsl.com/20230125/eIo
 这奶又大又圆，配合度也挺高,https://vip2.slbfsl.com/20230417/d1YZLSEV/index.m3u8
 【七天极品探花】3000网约大一兼职学生妹!,https://vip2.slbfsl.com/20230422/m3h1ziwF/index.m3u8
 
-东南亚AV_333,#genre#
+东南亚AV,#genre#
 032820-001-CARIB 極上泡姫物語 Vol.76,https://askzybf.com/20221125/gY1Sykb1/index.m3u8
 032820_01-10MU 天然むすめ 032820_01 本当はドMだけど少しだけボンテージコスでいじめてあげるね,https://vip1.slbfsl.com/20221027/sz3V1Nbq/index.m3u8
 032820_01-10MU 天然むすめ 032820_01 本当はドMだけど少しだけボンテージコスでいじめてあげるね,https://askzybf.com/20221125/qhM0pYRB/index.m3u8
@@ -4452,7 +4452,7 @@ Suppin業餘?De S的Suppin娘?,https://vip2.slbfsl.com/20230323/EkfjYnqH/index.m
 結婚二十年目の四十八歳熟膣大量中出しみき,https://vip2.slbfsl.com/20230415/p4e6SVks/index.m3u8
 看護師２６歳-Part 2,https://vip2.slbfsl.com/20230417/LRY2Mvth/index.m3u8
 
-欺辱凌辱_333,#genre#
+欺辱凌辱,#genre#
 两小伙破处找老鸡,https://vip1.slbfsl.com/20221031/KkvDZamG/index.m3u8
 萌白酱史上最美白虎,https://vip1.slbfsl.com/20221101/mRCNWNJB/index.m3u8
 山西布政司跟有夫之妇约聊天,https://vip1.slbfsl.com/20221104/7tPob7E2/index.m3u8
@@ -4500,7 +4500,7 @@ Belochu Slut的傻瓜,https://vip2.slbfsl.com/20230322/5WXOPE42/index.m3u8
 逆回春ハネ腰痙攣エステサロン,https://vip2.slbfsl.com/20230422/dwhHxVf8/index.m3u8
 牛仔褲Vol.21,https://vip2.slbfsl.com/20230422/HWUpWwmw/index.m3u8
 
-女优系列_333,#genre#
+女优系列,#genre#
 優しいバイト先店長に好意抱く私はわざと終電逃し…,https://vip2.slbfsl.com/20230303/Ty0cc2DY/index.m3u8
 異常興奮的中出,https://vip2.slbfsl.com/20230303/bLubJzPH/index.m3u8
 Big Cock Zubozubo,https://vip2.slbfsl.com/20230305/X5MDaH69/index.m3u8
@@ -4549,7 +4549,7 @@ Mで豊満で欲求不満な若奥様,https://vip2.slbfsl.com/20230323/yamhIEiq/
 媚薬キメセク相部屋NTR 身を滅ぼすまでひたすらメス堕ち,https://vip2.slbfsl.com/20230421/Eet9JNFl/index.m3u8
 逆らう言葉さえ唇で塞がれた僕は身動きできずに童貞を奪われて―,https://vip2.slbfsl.com/20230422/grpCSAmW/index.m3u8
 
-闷骚护士_333,#genre#
+闷骚护士,#genre#
 脸蛋漂亮的长发正妹，在床上猛烈毒龙放荡无比,https://vip1.slbfsl.com/20230109/Cm5rnjEi/index.m3u8
 XK8044  少婦白潔2-童汐,https://vip2.slbfsl.com/20230115/D8Lzdl5I/index.m3u8
 JD087  空姐阿蓮的合租生活,https://vip2.slbfsl.com/20230119/Hpm1XQTP/index.m3u8
@@ -4572,7 +4572,7 @@ WEBメディア運営サイト社長♀ 38歳,https://vip2.slbfsl.com/20230323/C
 働きウーマン ?献身介護士認定試験?,https://vip2.slbfsl.com/20230410/4teSdK5N/index.m3u8
 隣のハミ尻お姉さん,https://vip2.slbfsl.com/20230418/kOO8MzJb/index.m3u8
 
-🔞🈲精品MSD7月_333,#genre#
+🔞🈲精品MSD7月,#genre#
 安斋,https://siwazywcdn2.com:5278/zhongwenzimu/67nNClKY/index.m3u8
 百永纱理奈,https://siwazywcdn2.com:5278/zhongwenzimu/5PzEAi0h/index.m3u8
 耳边细语,https://siwazywcdn2.com:5278/zhongwenzimu/07fs3XqF/index.m3u8
@@ -4581,22 +4581,22 @@ WEBメディア運営サイト社長♀ 38歳,https://vip2.slbfsl.com/20230323/C
 西宫,https://siwazywcdn2.com:5278/zhongwenzimu/1BvNA3kM/index.m3u8
 咲咲原凛星奈爱,https://fc.maa1809.com/d/ojpmkokpmm/ojpmkokpmm.m3u8
 
-🔞🈲精品MSD星_333,#genre#
+🔞🈲精品MSD星,#genre#
 雪音,https://siwazywcdn2.com:5278/zhongwenzimu/23fVU6wT/index.m3u8
 叶月梨乃,https://siwazywcdn2.com:5278/ribenyouma/6F2acdoY/index.m3u8
 奏美沙,https://fc.maa1809.com/e/chifuosxst/chifuosxst.m3u8
 abp-981山奥,https://siwazywcdn2.com:5278/zhongwenzimu/yUJdhNRX/index.m3u8
 
-🔞🈲精品MSD1_333,#genre#
+🔞🈲精品MSD1,#genre#
 carib474立花琉莉,https://fc.maa1808.com/h/oqmoimljpr/oqmoimljpr.m3u8
 carib744立花琉莉,https://fc.maa1808.com/c/kmiorrpitk/kmiorrpitk.m3u8
 CAWD-092皆川优奈,https://siwazywcdn2.com:5278/zhongwenzimu/5JDoELrc/index.m3u8
 
-🔞🈲精品MSD2_333,#genre#
+🔞🈲精品MSD2,#genre#
 EBOD-829北野未奈,https://siwazywcdn2.com:5278/zhongwenzimu/6MnoNVIC/index.m3u8
 FSDSS-039美乃,https://siwazywcdn2.com:5278/zhongwenzimu/30HRcubp/index.m3u8
 
-🔞🈲精品MSD4_333,#genre#
+🔞🈲精品MSD4,#genre#
 heyzo1199希笑,https://fc.maa1808.com/d/bysmgbtdit/bysmgbtdit.m3u8
 heyzo1243水谷,https://fc.maa1808.com/c/iqwejgyxjo/iqwejgyxjo.m3u8
 heyzo1262西川,https://fc.maa1808.com/d/fhctzryess/fhctzryess.m3u8
@@ -4605,12 +4605,12 @@ heyzo1544姬川,https://fc.maa1808.com/h/xfjsphiogs/xfjsphiogs.m3u8
 HODV-21620沙月芽衣,https://siwazywcdn2.com:5278/zhongwenzimu/Qd8ozBGa/index.m3u8
 IPX-511,https://siwazywcdn2.com:5278/ribenyouma/NkRh5zW8/index.m3u8
 
-🔞🈲精品MSD6_333,#genre#
+🔞🈲精品MSD6,#genre#
 JUFE-104,https://siwazywcdn2.com:5278/zhongwenzimu/4TrvxJeg/index.m3u8
 JUFE-104,https://siwazywcdn2.com:5278//zhongwenzimu/4TrvxJeg/index.m3u8
 JUY-385大岛优香,https://video2.51daao.com/btt1/2021/10/20211017/V7WwMk16/2000kb/hls/index.m3u8
 
-🔞🈲精品MSD7_333,#genre#
+🔞🈲精品MSD7,#genre#
 MEYD-647川上奈奈美,https://siwazywcdn2.com:5278/zhongwenzimu/3YPtObjx/index.m3u8
 MIAA-247,https://siwazywcdn2.com:5278/zhongwenzimu/TZb8hicm/index.m3u8
 MIAA-247,https://siwazywcdn2.com:5278//zhongwenzimu/TZb8hicm/index.m3u8
@@ -4619,10 +4619,10 @@ MIAA-320,https://siwazywcdn2.com:5278//zhongwenzimu/4idREMlz/index.m3u8
 MIAA-489,https://siwazywcdn2.com:5278/zhongwenzimu/cRtCJ3WS/index.m3u8
 MIFD-117,https://siwazywcdn2.com:5278/zhongwenzimu/2imBA5or/index.m3u8
 
-🔞🈲精品MSD9_333,#genre#
+🔞🈲精品MSD9,#genre#
 pondo350西川,https://fc.maa1808.com/h/fmrcohtytf/fmrcohtytf.m3u8
 
-🔞🈲精品MSD11_333,#genre#
+🔞🈲精品MSD11,#genre#
 SCOP-697,https://siwazywcdn2.com:5278/zhongwenzimu/59LHYbi4/index.m3u8
 SPRD-1481夏川,https://siwazywcdn2.com:5278/zhongwenzimu/1Wc2gtfN/index.m3u8
 ssis-096乙白沙也,https://siwazywcdn2.com:5278/zhongwenzimu/0GbVxCsv/index.m3u8
@@ -4631,11 +4631,11 @@ SSNI-658A,https://siwazywcdn2.com:5278/zhongkouwei/nwba4LUx/index.m3u8
 SSNI-658B,https://siwazywcdn2.com:5278/zhongkouwei/WBdOE3qp/index.m3u8
 ssni-778儿玉玲奈,https://siwazywcdn2.com:5278/zhongwenzimu/6Lwmk5xH/index.m3u8
 
-🔞🈲精品MSD12_333,#genre#
+🔞🈲精品MSD12,#genre#
 UMD-737奏音花音,https://video2.51daao.com/btt1/2021/10/20211019/wO9PIxFb/2000kb/hls/index.m3u8
 WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3u8
 
-🔞🈲老逗频道_333,#genre#
+🔞🈲老逗频道,#genre#
 老逗01,https://video2.51daao.com/btt1/2021/07/20210708/7quARUC4/index.m3u8
 老逗02,https://video2.51daao.com/btt1/2021/07/20210708/BZzer3Ux/index.m3u8
 老逗04,https://video2.51daao.com/btt1/2021/07/20210708/oYUIog13/index.m3u8
@@ -4682,7 +4682,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 老逗49,https://video2.51daao.com/btt1/2021/06/20210627/m9vbmIFA/index.m3u8
 老逗50,https://video2.51daao.com/btt1/2021/06/20210627/dOexpEj9/index.m3u8
 
-🔞一本道_333,#genre#
+🔞一本道,#genre#
 一本道_1,https://vip4.ddyunbo.com/20210210/IjSENz6s/index.m3u8
 一本道_2,https://vip4.ddyunbo.com/20210209/dEzJjeSU/index.m3u8
 一本道_4,https://vip4.ddyunbo.com/20210208/uWwFdRB7/index.m3u8
@@ -4703,7 +4703,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 一本道_28,https://vip4.ddyunbo.com/20191004/HjrnnnDD/index.m3u8
 一本道_30,https://vip4.ddyunbo.com/20191004/3T6aTxbN/index.m3u8
 一本道_32,https://vip4.ddyunbo.com/20191004/rURK4pfY/index.m3u8
-一本道_33,https://vip4.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
+一本道,https://vip4.ddyunbo.com/20191007/7G1CWNc8/index.m3u8
 一本道_34,https://vip4.ddyunbo.com/20191007/IFlq5eON/index.m3u8
 一本道_36,https://vip4.ddyunbo.com/20190907/PH1oGegu/index.m3u8
 一本道_39,https://vip4.ddyunbo.com/20191209/eOWqpnjK/index.m3u8
@@ -4929,10 +4929,10 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 一本道_317,https://vip4.ddyunbo.com/20191211/mKHj4MjF/index.m3u8
 一本道_318,https://vip4.ddyunbo.com/20191209/gOW71wsS/index.m3u8
 一本道_319,https://vip4.ddyunbo.com/20191001/LrwArd97/index.m3u8
-一本道_335,https://vip4.ddyunbo.com/20210626/UMA1e0H4/index.m3u8
-一本道_336,https://vip4.ddyunbo.com/20210626/A2dGVy5a/index.m3u8
-一本道_337,https://vip4.ddyunbo.com/20210626/I6HW1lPD/index.m3u8
-一本道_339,https://vip4.ddyunbo.com/20210626/L4c9Q0Mw/index.m3u8
+一本道5,https://vip4.ddyunbo.com/20210626/UMA1e0H4/index.m3u8
+一本道6,https://vip4.ddyunbo.com/20210626/A2dGVy5a/index.m3u8
+一本道7,https://vip4.ddyunbo.com/20210626/I6HW1lPD/index.m3u8
+一本道9,https://vip4.ddyunbo.com/20210626/L4c9Q0Mw/index.m3u8
 一本道_340,https://vip4.ddyunbo.com/20210523/adSLcr5u/index.m3u8
 一本道_341,https://vip4.ddyunbo.com/20210610/TGBrJEHJ/index.m3u8
 一本道_344,https://vip4.ddyunbo.com/20210619/3KvERjbU/index.m3u8
@@ -4951,7 +4951,7 @@ WAAA-087工藤良罗,https://siwazywcdn2.com:5278/zhongwenzimu/0SuepbFL/index.m3
 一本道_405,https://vip4.ddyunbo.com/20210202/jnSPf5L7/index.m3u8?skipl=1
 一本道_406,https://vip4.ddyunbo.com/20210202/6wLYbWPq/index.m3u8?skipl=1
 
-🔞亚洲无码_333,#genre#
+🔞亚洲无码,#genre#
 FC2PPV-1226584,https://aosikazy12.com/20220929/Y3kiFgyI/index.m3u8
 FC2PPV-1226584,https://vod3.ttbfp5.com/20230403/6MEOTpkY/index.m3u8
 FC2PPV-1235209,https://aosikazy12.com/20220929/cejBtTpH/index.m3u8
@@ -5109,7 +5109,7 @@ FC2PPV-1271635 【生ドル?未修正】矢〇亜希子激似が声を我慢し�
 模特的集合,https://vip2.slbfsl.com/20230421/jXtbHqut/index.m3u8
 苗條的秀麗,https://vip2.slbfsl.com/20230421/ACRIKFyD/index.m3u8
 
-🔞激情壹区_333,#genre#
+🔞激情壹区,#genre#
 欧美版K频道,http://live.redtraffic.xyz:80/threesome.m3u8
 欧美版K频道,http://live.redtraffic.xyz/threesome.m3u8fluxuslust.m3u8
 欧美版K频道,http://cdn.adultiptv.net/threesome.m3u8
@@ -5246,7 +5246,7 @@ WhiteGirls,http://live.mycamtv.com/white.m3u8
 YoungGirls,http://live.mycamtv.com/young.m3u8
 VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
-🔞激情叁区_333,#genre#
+🔞激情叁区,#genre#
 大陆1,https://vip4.ddyunbo.com/20210221/gS5t2jEz/index.m3u8?skipl=1
 大陆3,https://vip4.ddyunbo.com/20210220/U7alv33Q/index.m3u8?skipl=1
 大陆10,https://vip4.ddyunbo.com/20210213/Sbi4AGZG/index.m3u8?skipl=1
@@ -5261,7 +5261,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 大陆29,https://vip4.ddyunbo.com/20210224/SCE3aWBI/index.m3u8?skipl=1
 大陆31,https://dadi-bo.com/20181214/AiWZdPFj/index.m3u8?skipl=1
 
-🔞激情肆区_333,#genre#
+🔞激情肆区,#genre#
 老板2波援交妹第02集,https://lbbf9.com/20200225/VhmvzJR5/index.m3u8
 老板2波援交妹第03集,https://lbbf9.com/20200225/TlG20h4V/index.m3u8
 老板2波援交妹第04集,https://lbbf9.com/20200225/B54PTXtF/index.m3u8
@@ -5295,7 +5295,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 还枝格格,https://vod1.ttbfp2.com/20220507/G11WS1ET/index.m3u8
 金瓶双艳,https://vod1.ttbfp2.com/20210929/p1JQPbms/index.m3u8
 鬼叫春现代版,https://vod1.ttbfp2.com/20220430/S29WHIHj/index.m3u8
-【天美传媒】_333,#genre#
+【天美传媒】,#genre#
 天美传媒1,https://zo392.cdnedge.live/file/avple-images/hls/62bd88f0d0fa6a48496bbf60/playlist.m3u8
 天美传媒2,https://je40u.cdnedge.live/file/avple-images/hls/62bd88b4d0fa6a48496bbf5f/playlist.m3u8
 天美传媒3,https://zo392.cdnedge.live/file/avple-images/hls/62c44398366b240e3b67be36/playlist.m3u8
@@ -5442,7 +5442,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 
 
-【91制片厂】_333,#genre#
+【91制片厂】,#genre#
 1,https://zo392.cdnedge.live/file/avple-images/hls/62a5b37294b044303b9622e2/playlist.m3u8
 2,https://1xp60.cdnedge.live/file/avple-images/hls/62b4346cea01b50f6781dc5f/playlist.m3u8
 3,https://e2fa6.cdnedge.live/file/avple-images/hls/62bbe92aea3d425e0a93b797/playlist.m3u8
@@ -5534,7 +5534,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 
 
-【蜜桃传媒】_333,#genre#
+【蜜桃传媒】,#genre#
 蜜桃传媒PMC194淫荡小姨勾引姪子被操哭-吴茜茜,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a6ad36c38433078a6951/playlist.m3u8
 蜜桃传媒强欲少妇勾引水电工,https://8bb88.cdnedge.live/file/avple-images/hls/629f268279f93b6e0966e22e/playlist.m3u8
 蜜桃传媒禁不起诱惑狂操美女老师,https://8bb88.cdnedge.live/file/avple-images/hls/629f260979f93b6e0966e22d/playlist.m3u8
@@ -5762,7 +5762,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 184,https://q2cyl7.cdnedge.live/file/avple-images/hls/61bd94958cc57113d4874845/playlist.m3u8
 185,https://u89ey.cdnedge.live/file/avple-images/hls/61c6a7f1668fd93b4250a320/playlist.m3u8
 
-【精东传媒】_333,#genre#
+【精东传媒】,#genre#
 
 精东影业JD017女总裁上约啪求刺激-吉吉,https://w9n76.cdnedge.live/file/avple-images/hls/62c43a77366b240e3b67be28/playlist.m3u8
 精东影业JD021爆操台球女助教-吉吉,https://d862cp.cdnedge.live/file/avple-images/hls/62c5a72636c38433078a6952/playlist.m3u8
@@ -5894,7 +5894,7 @@ VISIT-X,http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
 
 
 
-【扣扣传媒】_333,#genre#
+【扣扣传媒】,#genre#
 
 扣扣传媒,https://t19.cdn2020.com/video/m3u8/2022/06/30/8f96c2cc/index.m3u8
 扣扣传媒,https://t19.cdn2020.com/video/m3u8/2022/07/25/6786649e/index.m3u8
@@ -5941,7 +5941,7 @@ QQOG-050老师的体罚,https://t21.cdn2020.com/video/m3u8/2023/04/13/49bf0e9c/i
 
 
 
-【麻豆传媒】_333,#genre#
+【麻豆传媒】,#genre#
 01,https://10j99.cdnedge.live/file/avple-images/hls/61f3922623581479b901ae14/playlist.m3u8
 02,https://je40u.cdnedge.live/file/avple-images/hls/6206efa6c6e4cd6e597c7184/playlist.m3u8
 03,https://zo392.cdnedge.live/file/avple-images/hls/61f391ea23581479b901ae13/playlist.m3u8
@@ -6117,7 +6117,7 @@ QQOG-050老师的体罚,https://t21.cdn2020.com/video/m3u8/2023/04/13/49bf0e9c/i
 
 
 
-【麻豆映画12】_333,#genre#
+【麻豆映画12】,#genre#
 01,https://1xp60.cdnedge.live/file/avple-images/hls/61b97d650d486a09e8730583/playlist.m3u8
 02,https://1xp60.cdnedge.live/file/avple-images/hls/61b817f997618e5cc644ad44/playlist.m3u8
 03,https://q2cyl7.cdnedge.live/file/avple-images/hls/61b8183597618e5cc644ad45/playlist.m3u8
@@ -6391,7 +6391,7 @@ QQOG-050老师的体罚,https://t21.cdn2020.com/video/m3u8/2023/04/13/49bf0e9c/i
 
 
 
-国产传媒 _333,#genre#
+国产传媒 ,#genre#
 MAD-010大兴赌坊之赢行天下-倪哇哇,https://t10t13t16.cdn2020.com/video/m3u8/2021/07/27/21990f22/index.m3u8
 MAD-011武林大会之玉女心经,https://8bb88.cdnedge.live/file/avple-images/hls/612f8fa1aea52029946451ce/playlist.m3u8
 MAD-016牛郎织女-郭童童,https://t10t13t16.cdn2020.com/video/m3u8/2021/08/13/6e07dd64/index.m3u8
@@ -7026,7 +7026,7 @@ o-star,https://e2fa6.cdnedge.live/file/avple-images/hls/61de116126bc6674a0936d1b
 
 
 
-【探花】_333,#genre#
+【探花】,#genre#
 
 「推车哥探花」窈窕软妹酥胸乱跳 极品身材前凸后翘,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/lg/36/43/id/dbd5aa9ed32246efb3ac01b1455b335f.m3u8?
 「推车哥探花」清纯小妹矫嗔绝顶 老汉推车横冲直撞,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/2l/tb/7j/hs/81cf27424e764b8aa117e39b38b61795.m3u8?
@@ -7069,7 +7069,7 @@ o-star,https://e2fa6.cdnedge.live/file/avple-images/hls/61de116126bc6674a0936d1b
 「老司机探花」 无套内射解禁 淫荡尤物口技封神,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k3/gj/33/mk/56495ca3a195450a86936ad1bb13d879.m3u8?
 「老司机探花」丰臀骚货吹拉弹唱 老司机欲罢不能,https://fufxtyc.bytebwq.com/api/app/media/m3u8/zh/k3/gj/33/mk/56495ca3a195450a86936ad1bb13d879.m3u8?
 
-【Psychoporn】_333,#genre#
+【Psychoporn】,#genre#
 PsychopornTW1,https://w9n76.cdnedge.live/file/avple-images/hls/61653ccd7c6c230632362c4b/playlist.m3u8
 PsychopornTW2,https://w9n76.cdnedge.live/file/avple-images/hls/62aad21a21a7da2e6584bc89/playlist.m3u8
 PsychopornTW3,https://8bb88.cdnedge.live/file/avple-images/hls/628cd91fde01360ccb2f8e9f/playlist.m3u8
@@ -7103,7 +7103,7 @@ PS-029咖啡店搭讪温柔姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/18/
 
 
 
-【糖心出品】_333,#genre#
+【糖心出品】,#genre#
 绝美女网红内献榜一大哥-多乙,https://t10t13t16.cdn2020.com/video/m3u8/2021/12/11/1eab21fd/index.m3u8
 买醉女顾客被保洁员瀑噪嫩雪-多乙,https://t10t13t16.cdn2020.com/video/m3u8/2022/03/05/2a9035ae/index.m3u8
 极上白嫩多姨究极愉青实录-多乙,https://t10t13t16.cdn2020.com/video/m3u8/2022/03/09/74f9b2b5/index.m3u8
@@ -7154,7 +7154,7 @@ JK少女的肉体补习,https://t21.cdn2020.com/video/m3u8/2023/02/08/fd3845eb/i
 
 
 
-【麻豆US】_333,#genre#
+【麻豆US】,#genre#
 淘气的初体验-MiaKay,https://q2cyl7.cdnedge.live/file/avple-images/hls/62c5a54536c38433078a694f/playlist.m3u8
 色欲偷情,https://q2cyl7.cdnedge.live/file/avple-images/hls/62bd8710d0fa6a48496bbf5b/playlist.m3u8
 火辣女警的调查,https://1xp60.cdnedge.live/file/avple-images/hls/628ab12ba1c1cd0b44683ef5/playlist.m3u8
@@ -7172,7 +7172,7 @@ pov!勾引我的导师,https://1xp60.cdnedge.live/file/avple-images/hls/627a582c
 偷拍女儿性爱实录,https://je40u.cdnedge.live/file/avple-images/hls/62350561ecafc64f34ef85b8/playlist.m3u8
 47,https://u89ey.cdnedge.live/file/avple-images/hls/61d62375f2772f49dcde1d4a/playlist.m3u8
 
-杂项_333,#genre#
+杂项,#genre#
 超敏感尤物难以置信的快乐-玩偶姐姐,https://t21.cdn2020.com/video/m3u8/2023/04/13/6b00abe1/index.m3u8
 森林01-相遇,https://gcyivjc.qrneryt.com/api/app/media/m3u8/zh/q9/cf/me/5p/453774d191ce481d9714925f1fba72bc.m3u8?
 FSOG-005爆操醉酒女室友-许木学长,https://u89ey.cdnedge.live/file/avple-images/hls/62c5a76036c38433078a6953/playlist.m3u8
@@ -7496,7 +7496,7 @@ JVID初恋要结婚对象不是我,https://t21.cdn2020.com/video/m3u8/2023/03/07
 
 
 
- 🔞CR④_333,#genre#
+ 🔞CR④,#genre#
  汗水女孩的秀惑-徐蕾,https://t19.cdn2020.com/video/m3u8/2022/06/09/dbaa955c/index.m3u8
  妹妹房间的冷气坏掉-徐蕾,https://t19.cdn2020.com/video/m3u8/2022/07/01/968b9574/index.m3u8
  不需言语的肉穴交流- 徐蕾,https://t19.cdn2020.com/video/m3u8/2022/08/20/f4e6e08f/index.m3u8
@@ -7708,7 +7708,7 @@ JVID初恋要结婚对象不是我,https://t21.cdn2020.com/video/m3u8/2023/03/07
  绿帽始祖武大郎-倪哇哇,https://t10t13t16.cdn2020.com/video/m3u8/2022/03/02/6a7f95fe/index.m3u8
  旅店老板娘的招待-倪哇哇,https://t19.cdn2020.com/video/m3u8/2022/09/05/a4676791/index.m3u8
 
-🎎未知_333,#genre#
+🎎未知,#genre#
 把小母狗的小穴灌满精液-小敏儿,https://t21.cdn2020.com/video/m3u8/2023/03/23/e39ffa9d/index.m3u8
 拜金女孩代替闺蜜相亲主动献身富二代,https://t21.cdn2020.com/video/m3u8/2023/03/29/d92aea0d/index.m3u8
 保洁员小姐姐兼职推销避孕套,https://t21.cdn2020.com/video/m3u8/2023/02/21/3b31ff23/index.m3u8
@@ -7815,7 +7815,7 @@ COS王者露娜理想中的女友-紫萱,https://t21.cdn2020.com/video/m3u8/2023
 
 
 
-🙀麻豆▪电影_333,#genre#
+🙀麻豆▪电影,#genre#
 RAS-0114,https://t10t13t16.cdn2020.com/video/m3u8/2022/02/06/e6d50d46/index.m3u8
 RAS-0125,https://zo392.cdnedge.live/file/avple-images/hls/62a1cb2956220431fa6b0d83/playlist.m3u8
 RAS-0148,https://je40u.cdnedge.live/file/avple-images/hls/62a1c9bf56220431fa6b0d81/playlist.m3u8
