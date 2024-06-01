@@ -51,6 +51,43 @@
             }
         },
         {
+            "key": "Ikanbot",
+            "name": "爱看机器人",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "jar": "./pg.2024/pg.jar",
+            "ext": "https://v.aikanbot.com$$$proxy"
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 3,
+            "api": "csp_Duanju",
+            "searchable": 0,
+            "changeable": 1,
+            "jar": "./pg.2024/pg.jar",
+            "ext": "https://www.duanjutv.icu"
+        },
+        {
+            "key": " 百姓 ",
+            "name": "🎦农民影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "./jar/XBPQ.jar",
+            "ext": {
+                "简介": "+剧情介绍：&&</p >",
+                "分类url": "https://www.gymboreejn.com/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html[https://www.gymboreejn.com/vodtype/{cateId}.html]",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#动画片$29#短剧$31#影视解说$32#邵氏电影$39"
+            }
+        },
+        {
             "key": "高清网",
             "name": "📹高清网 | 4K磁力",
             "type": 3,
@@ -365,6 +402,12 @@
             "type": 0,
             "playerType": 1,
             "url": "./other/4gtv.txt"
+        },
+        {
+            "name": "iptv",
+            "type": 0,
+            "playerType": 1,
+            "url": "http://175.178.251.183:6689/live.m3u"
         },
         {
             "name": "live.fan",
