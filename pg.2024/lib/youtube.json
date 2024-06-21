@@ -26,6 +26,10 @@
 			"type_name":"紀錄片"
 		},
 		{
+			"type_id":"直播",
+			"type_name":"直播"
+		},
+		{
 			"type_id":"YouTube 新聞 Live",
 			"type_name":"新聞直播"
 		},
@@ -74,8 +78,20 @@
 			"type_name":"神秘"
 		},
 		{
-			"type_id":"动画片",
-			"type_name":"动画片"
+			"type_id":"動畫片",
+			"type_name":"動畫片"
+		},
+		{
+			"type_id":"动漫",
+			"type_name":"动漫"
+		},
+		{
+			"type_id":"遊戲",
+			"type_name":"遊戲"
+		},
+		{
+			"type_id":"小說",
+			"type_name":"小說"
 		}
 	],
 	"filters":{
