@@ -1,6 +1,56 @@
 {
     "sites": [
         {
+            "key": "yaml订阅",
+            "name": "富婆订阅",
+            "type": 3,
+            "style": {
+                "type": "rect",
+                "ratio": 1.75
+            },
+            "jar": "./pg.2024/pg.jar",
+            "api": "csp_Market",
+            "searchable": 1,
+            "changeable": 1,
+            "proxy": "$$$proxy|proxy2",
+            "ext": [
+                {
+                    "name": "富婆节点订阅",
+                    "list": [
+                        {
+                            "name": "傻逼",
+                            "url": "https://qu.ax/utyJ.jpg",
+                            "icon": "https://qu.ax/utyJ.jpg",
+                            "version": "看雅蠛蝶必备",
+                            "copy": "https://alvless.comorg.us.kg/sub?host=syvless.6516789.xyz&uuid=99280094-e683-476b-a3cd-0d37c3892c6f"
+                        }
+                    ]
+                },
+                {
+                    "name": "富婆影视接口",
+                    "list": [
+                        {
+                            "name": "傻逼",
+                            "url": "https://qu.ax/utyJ.jpg",
+                            "icon": "https://qu.ax/utyJ.jpg",
+                            "version": "雅蠛蝶",
+                            "copy": "傻逼这里写富婆接口地址"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "key": "ptt",
+            "name": "ppt",
+            "type": 3,
+            "api": "csp_PTT",
+            "jar": "./jar/fm.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Wogg",
             "name": "玩偶哥哥|网盘",
             "type": 3,
