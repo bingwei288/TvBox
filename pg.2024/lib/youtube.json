@@ -82,6 +82,10 @@
 			"type_name":"动漫"
 		},
 		{
+			"type_id":"沙雕穿越",
+			"type_name":"沙雕穿越"
+		},
+		{
 			"type_id":"遊戲",
 			"type_name":"遊戲"
 		},
