@@ -2,6 +2,81 @@
     "spider": "./pg.2024/pg.jar",
     "sites": [
         {
+            "key": "Youtube",
+            "name": "Youtube",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jar/zx.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "./other/youtube.json",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "Youtube┃内代",
+            "name": "Youtube┃内代",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "changeable": 1,
+            "jar": "./jar/zx.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "commonConfig": "./other/peizhi.json",
+                "json": "./other/youtube.json",
+                "cookie": ""
+            }
+        },
+        {
+            "key": "ConfigCenter",
+            "name": "配置中心",
+            "type": 3,
+            "api": "csp_ConfigCenter",
+            "searchable": 0,
+            "changeable": 0,
+            "jar": "./jar/zx.jar",
+            "ext": {
+                "commonConfig": "./other/peizhi.json"
+            }
+        },
+        {
+            "key": "玩偶 | 蜡笔",
+            "name": "玩偶 | 蜡笔",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./jar/zx.jar",
+            "ext": {
+                "commonConfig": "./other/peizhi.json",
+                "siteUrl": "https://labipan.com/",
+                "filter": "./other/wogg.json"
+            }
+        },
+        {
+            "key": "玩偶 | 木偶",
+            "name": "玩偶 | 木偶",
+            "type": 3,
+            "api": "csp_kongbai",
+            "searchable": 1,
+            "changeable": 0,
+            "jar": "./jar/zx.jar",
+            "ext": {
+                "commonConfig": "./other/peizhi.json",
+                "siteUrl": "http://www.muoupan.top/",
+                "filter": "./other/wogg.json"
+            }
+        },
+        {
             "key": "实验油管",
             "name": "实验油管",
             "type": 4,
@@ -56,8 +131,8 @@
             "ext": "./pg.2024/lib/douban.json"
         },
         {
-            "key": "Youtube",
-            "name": "Youtube",
+            "key": "Youtube┃pg",
+            "name": "Youtube┃pg",
             "type": 3,
             "api": "csp_Youtube",
             "searchable": 1,
@@ -70,29 +145,6 @@
                 "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
                 "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "codecs": "",
-                "danmu": true
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            }
-        },
-        {
-            "key": "Youtube┃内代",
-            "name": "Youtube┃内代",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "timeout": 120,
-            "ext": {
-                "token": "./pg.2024/lib/tokenm.json",
-                "json": "./pg.2024/lib/youtube.json",
-                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-                "codecs": "",
-                "proxy": "proxy",
                 "danmu": true
             },
             "style": {
