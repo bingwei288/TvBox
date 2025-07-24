@@ -1,80 +1,79 @@
 {
-    "spider": "./pg.2024/pg.jar",
+    "spider": "./jar/yt.jar",
     "sites": [
         {
-            "key": "Youtube",
-            "name": "Youtube",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jar/zx.jar",
+            "key": "服务器油管go",
+            "name": "服务器油管go",
+            "type": 4,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988",
             "style": {
                 "type": "rect",
-                "ratio": 1.433
+                "ratio": 1.33
             },
-            "ext": {
-                "json": "./other/youtube.json",
-                "cookie": ""
-            }
+            "searchable": 1,
+            "changeable": 1
         },
         {
-            "key": "Youtube┃内代",
-            "name": "Youtube┃内代",
-            "type": 3,
-            "api": "csp_Youtube",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jar/zx.jar",
+            "key": "油管播放列表1",
+            "name": "油管播放列表1",
+            "type": 4,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988/lb?lb=0",
             "style": {
                 "type": "rect",
-                "ratio": 1.433
+                "ratio": 1.33
             },
-            "ext": {
-                "commonConfig": "./other/peizhi.json",
-                "json": "./other/youtube.json",
-                "cookie": ""
-            }
-        },
-        {
-            "key": "ConfigCenter",
-            "name": "配置中心",
-            "type": 3,
-            "api": "csp_ConfigCenter",
-            "searchable": 0,
-            "changeable": 0,
-            "jar": "./jar/zx.jar",
-            "ext": {
-                "commonConfig": "./other/peizhi.json"
-            }
-        },
-        {
-            "key": "玩偶 | 蜡笔",
-            "name": "玩偶 | 蜡笔",
-            "type": 3,
-            "api": "csp_kongbai",
             "searchable": 1,
-            "changeable": 0,
-            "jar": "./jar/zx.jar",
-            "ext": {
-                "commonConfig": "./other/peizhi.json",
-                "siteUrl": "https://labipan.com/",
-                "filter": "./other/wogg.json"
-            }
+            "changeable": 1
         },
         {
-            "key": "玩偶 | 木偶",
-            "name": "玩偶 | 木偶",
-            "type": 3,
-            "api": "csp_kongbai",
+            "key": "油管播放列表2",
+            "name": "油管播放列表2",
+            "type": 4,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988/lb?lb=1",
             "searchable": 1,
-            "changeable": 0,
-            "jar": "./jar/zx.jar",
-            "ext": {
-                "commonConfig": "./other/peizhi.json",
-                "siteUrl": "http://www.muoupan.top/",
-                "filter": "./other/wogg.json"
-            }
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "采集集合",
+            "name": "采集集合",
+            "type": 1,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988/lb?lb=3",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "短剧",
+            "name": "短剧",
+            "type": 4,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988/lb?lb=2",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "changeable": 1
+        },
+        {
+            "key": "直播转点播",
+            "name": "直播转点播",
+            "type": 4,
+            "jar": "./jar/yt.jar",
+            "api": "http://127.0.0.1:1988/lb?lb=6",
+            "searchable": 1,
+            "changeable": 0
         },
         {
             "key": "实验油管",
@@ -113,8 +112,8 @@
             "filterable": 0
         },
         {
-            "key": "采集集合",
-            "name": "采集集合",
+            "key": "采集集合┃在线",
+            "name": "采集集合┃在线",
             "type": 1,
             "api": "http://zhangqun1818.serv00.net/cjjh.php",
             "searchable": 0,
@@ -124,24 +123,50 @@
             "key": "豆瓣",
             "name": "豆瓣",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Douban",
             "searchable": 0,
             "changeable": 1,
             "indexs": 1,
-            "ext": "./pg.2024/lib/douban.json"
+            "ext": "./pg.2025/lib/douban.json"
         },
         {
-            "key": "Youtube┃pg",
-            "name": "Youtube┃pg",
+            "key": "Youtube┃内代",
+            "name": "Youtube┃内代",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Youtube",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
             "timeout": 120,
             "ext": {
-                "token": "./pg.2024/lib/tokenm.json",
-                "json": "./pg.2024/lib/youtube.json",
+                "token": "./pg.2025/lib/tokenm.json",
+                "json": "./pg.2025/lib/youtube.json",
+                "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
+                "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
+                "codecs": "",
+                "proxy": "proxy",
+                "danmu": true
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            }
+        },
+        {
+            "key": "Youtube┃pg",
+            "name": "Youtube┃pg",
+            "type": 3,
+            "jar": "./pg.2025/pg.jar",
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 120,
+            "ext": {
+                "token": "./pg.2025/lib/tokenm.json",
+                "json": "./pg.2025/lib/youtube.json",
                 "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
                 "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
                 "codecs": "",
@@ -159,7 +184,8 @@
             "api": "csp_Config",
             "searchable": 0,
             "changeable": 0,
-            "ext": "./pg.2024/lib/tokenm.json",
+            "jar": "./pg.2025/pg.jar",
+            "ext": "./pg.2025/lib/tokenm.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -169,6 +195,7 @@
             "key": "bili",
             "name": "B站 | Bili[jar]",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Bili",
             "searchable": 1,
             "quickSearch": 0,
@@ -182,6 +209,7 @@
             "key": "快看",
             "name": "快看",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Kuaikan",
             "searchable": 1,
             "quickSearch": 1,
@@ -192,6 +220,7 @@
             "key": "黑木耳",
             "name": "黑木耳",
             "type": 1,
+            "jar": "./pg.2025/pg.jar",
             "api": "http://127.0.0.1:10079/p/0/null/https://json.heimuer.xyz/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1
@@ -200,9 +229,10 @@
             "key": "混合盘",
             "name": "混合盘|网盘搜索",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_HunHePan",
             "timeout": 60,
-            "ext": "./pg.2024/lib/tokenm.json",
+            "ext": "./pg.2025/lib/tokenm.json",
             "style": {
                 "type": "list",
                 "ratio": 1.1
@@ -230,125 +260,6 @@
             }
         },
         {
-            "key": "乐哥特供-洋葱影视",
-            "name": "🧅洋葱┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "lazyload&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "播放数组": "playlist clearfix column8\">&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "线路数组": "<li>&&</li>",
-                "线路标题": ">&&</a>",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.zjgydsj.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36"
-            }
-        },
-        {
-            "key": "乐哥特供-天天动漫",
-            "name": "🗓天天┃动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "线路二次截取": "class=\"module-tab-items-box&&lass=\"swiper[替换:</div>>></a>]",
-                "线路数组": "class=\"module-tab-item tab-item&&</a>",
-                "线路标题": "<span>&&</span>",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://www.ttdm.me/vod-show/{cateId}--{by}-{class}--{letter}---{catePg}---/",
-                "分类": "🇨🇳中国动漫$1#🇯🇵日本动漫$2#🇺🇸欧美动漫$3#🍑其他动漫$4#🌏动画电影$5"
-            }
-        },
-        {
-            "key": "乐哥特供-蜗牛影院",
-            "name": "🐌蜗牛┃影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "class=\"video-item\">&&class=\"video-con",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "duration\">&&</div>",
-                "链接": "href=\"&&\"",
-                "播放数组": "class=\"row ewave-playlist&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "线路数组": "class=\"swiper-slide ewave-tab&&li>",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "线路标题": ">&&</",
-                "分类url": "https://www.lan-sun.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24#纪录片$23国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$20#日本剧$21#其它剧$22#网红短剧$34大陆综艺$25#日韩综艺$26#港台综艺$27#欧美综艺$28||国产动漫$29#日韩动漫$30#欧美动漫$31#其它动漫$32"
-            }
-        },
-        {
-            "key": "乐哥特供-独家绝密库",
-            "name": "🦄独家┃绝密",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "防走丢": "http://djjmk.top/",
-                "二次截取": "class=\"row col5 clearfix&&class=\"wrap",
-                "数组": "<dt>&&</dt>",
-                "标题": "title=\"&&\"",
-                "图片": "data-src=\"&&\"",
-                "副标题": "<i>&&</i>",
-                "链接": "href=\"&&\"",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
-                "分类url": "https://xn--5f-ng7cy3vt8e.djjmk.icu/duoziyuan/{cateId}/index.php/vod/type/id/{class}/page/{catePg}.html;;z",
-                "分类": "视频一区$yutu#视频二区$yaowuwu#视频三区$aosika#视频四区$laoya#视频五区$tantan",
-                "剧情": "精选$1#精品推荐$39#国产精品$40#剧情介绍$46#麻豆传媒$50#日韩$2#日本有码$51#日本无码$52#中文字幕$53#童颜巨乳$54#性感人妻$55#日本片商$56#国产$3#主播秀色$60#三级伦理$61#自拍偷拍$62#网曝系列$65#重口$4#强奸乱伦$66#欧美情色$67#卡通动漫$68#丝袜OL$69精选$1#麻豆传媒$20#AV解说$21#AI换脸$22#萝莉少女$23#女优明星$24#韩国主播$36#国产$2#美女主播$25#国产自拍$26#网红头条$27#网爆黑料$28#抖音视频$29#日韩$3#无码专区$30#三级伦理$31#中文字幕$32#熟女人妻$33#卡通动漫$34#美乳巨乳$35#重口$4#SM调教$37#欧美无码$38#女同性爱$39#多人群交$40#欧美系列$41#制服诱惑$42#强奸乱伦$43精选$1#映画传媒$20#精选独家$21#探花系列$22#成人动漫$23#AV解说$46#日韩$2#日本无码$24#日本有码$25#中文字幕$26#日本素人$27#高清名优$28#人妻熟女$29#口爆颜射$30#萝莉少女$31#貧乳小奶$32#国产$3#国产自拍$33#网红主播$34#三级伦理$35#短视频$36#AI换脸$37#重口$4#欧美精品$38#SM调教$39#女同性爱$40#多人群交$41#美乳巨乳$42#制服诱惑$43#丝袜美腿$44#翹臀美尻$45精选$1#明星换脸$20#中国传媒$21#AV解说$23#少女萝莉$32#海外明星$33#学生系列$46#日韩$2#日本无码$25#日本有码$26#中文字幕$27#成人动漫$28#巨乳美乳$29#熟女人妻$30#三级伦理$31#极品少妇$47#国产$3#自拍偷拍$34#主播直播$35#国产情色$36#网红黑料$37#重口$4#欧美性爱$40#强奸乱伦$41#变态另类$42#制服诱惑$43#女同性恋$45#人妖系列$48精选$1#精品推荐$20#少女萝莉$21#成人动漫$22#角色扮演$23#日韩$2#日本无码$24#日本有码$25#中文字幕$26#巨乳美乳$27#熟女人妻$28#三级伦理$29#国产$3#国产视频$30#主播直播$31#自拍偷拍$32#重口$4#强奸乱伦$33#欧美精品$34#制服丝袜$35#口交颜射$36"
-            }
-        },
-        {
-            "key": "绝美视频",
-            "name": "🔞绝美视频┃内代",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/XBPQ.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "页面代理": "127.0.0.1:10172",
-                "主页url": "https://www.juemei.fun/",
-                "分类url": "https://www.juemei.fun/type/{cateId}-{catePg}.html;;z",
-                "分类": "tsuki$1#jeehyeon$13#YeonHwa$2#KYUL$3#ChoiApple$4#클로이 요가 Chloe YOGA$5#jiyoung$12#임제리 IMJERRY LOOKBOOK$7#Ajin lookbook$8#엔픽컴퍼니 Official$9#Saki Vlog$10#HAATSSOl 햇쏠 LOOKBOOK VLOGER$11#yunji$14#GGotBBang TV$15#슬렌서아 Slenn Seoah$6"
-            }
-        },
-        {
             "key": "av影视",
             "name": "🔞AV影视┃内代",
             "type": 3,
@@ -369,6 +280,7 @@
             "key": "MissAV",
             "name": "🔞MissAV┃内代",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Miss",
             "changeable": 0,
             "quickSearch": 1,
@@ -383,6 +295,7 @@
             "key": "Hanime",
             "name": "🔞Hanime┃内代",
             "type": 3,
+            "jar": "./pg.2025/pg.jar",
             "api": "csp_Hanime",
             "searchable": 1,
             "ext": "proxy",
@@ -446,15 +359,6 @@
                 "type": "rect",
                 "ratio": 1.485
             }
-        },
-        {
-            "key": "麻豆",
-            "name": "🔞麻豆姐姐",
-            "type": 1,
-            "api": "https://www.md91.cc/api.php/provide/vod/",
-            "style": {
-                "ratio": 1.7
-            }
         }
     ],
     "lives": [
@@ -472,6 +376,12 @@
         },
         {
             "name": "4gtv",
+            "type": 0,
+            "playerType": 1,
+            "url": "./other/4gtv.txt"
+        },
+        {
+            "name": "live福利",
             "type": 0,
             "playerType": 1,
             "url": "./other/4gtv.txt"
